@@ -5,7 +5,7 @@ public class TestHutool {
     public static void main(String[] args) {
         String dateStr = "2012-12-12 12:12:12";
         DateTime date = DateUtil.parse(dateStr);
-        System.out.println(date);
+        System.out.println("222");
     }
 
 }
